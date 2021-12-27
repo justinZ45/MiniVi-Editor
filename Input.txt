@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+cout << "How are you?" << endl;"
+string ans;
+cin >> ans;
+cout << ans << endl;
+cout << "Are you having a good day?" << endl;"
+char ans2;
+cin >> ans2;
+return 0;
+}
