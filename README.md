@@ -13,7 +13,7 @@ This line editor provides the user with the ability to delete characters, delete
 -  Binary Tree
 -  Nodes
 
-### MiniVi Text Editor functions
+### MiniVi Text Editor Functions
 - [X] 1. The user can move the cursor up, down, left and right.
 - [X] 2. The user can add a new character of line of text.
 - [X] 3. The user can delete a single character.
