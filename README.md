@@ -19,6 +19,6 @@ This line editor provides the user with the ability to delete characters, delete
 - [X] 3. The user can delete a single character.
 - [X] 4. The user can delete a whole line of text.
 - [X] 5. The cursor stays within the bounds of the text.
-- [X] 6. The user can undo their changes which can revert character or line deletion
+- [X] 6. The user can undo their changes which can revert character or line deletion.
 - [X] 7. The color of the text is changed when keywords are used.
 - [X] 8. The user can access this program from the command line.
