@@ -1,6 +1,6 @@
 # MiniVi-Editor
 
-### Text Editor
+## Text Editor
 This is a MiniVi text editor created through the use of various data structures and the C++ programming language.
 
 ### Project Description
